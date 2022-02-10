@@ -1,0 +1,9 @@
+git --version
+
+git init
+
+1) git status
+2) git add main.py
+3) git commit -m "add main.py"
+
+4) git diff main.py
